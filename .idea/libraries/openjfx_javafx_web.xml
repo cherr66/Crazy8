@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="openjfx.javafx.web" type="repository">
+    <properties maven-id="org.openjfx:javafx-web:18" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javafx-web-18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-web-18-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-controls-18-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-graphics-18-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-base-18-win.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-media-18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javafx-media-18-win.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
